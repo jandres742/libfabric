@@ -1,7 +1,7 @@
 Version @VERSION@
 Released on @DATE@
 
-Introduction
+  Introduction
 ============
 Libfabric is a communication library that exports interfaces for
 fabric services to applications.  Libfabric is the core component
